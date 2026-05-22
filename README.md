@@ -15,7 +15,7 @@ A simple FastAPI project with:
 ## 1. Clone Repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/techietinker1/Bookstore-API
 ```
 
 ## 2. Move to Project Folder
